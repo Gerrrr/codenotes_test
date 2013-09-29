@@ -15,5 +15,8 @@ def f(a, b):
 def g():
     """
     TODO: write something already!
-    """"
+    """
     pass
+
+
+f()
