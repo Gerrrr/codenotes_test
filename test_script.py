@@ -16,6 +16,6 @@ def g():
     """
     TODO: write something already!
     """
-    pass  # TODO: **WANNA** MARKDOWN HERE
+    pass  # TODO: *WANNA* MARKDOWN HERE
 
 print "hellofer"
