@@ -18,3 +18,5 @@ def g():
     """
     pass
 
+
+print "hello world"
