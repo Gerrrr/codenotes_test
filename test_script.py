@@ -22,5 +22,7 @@ def y():
     return 42 # TODO: NOTHING!!
 
 # FIXME: FIX!
+# NOTE: KAWABANGA
+
 
 print "hellofer"
