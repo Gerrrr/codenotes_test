@@ -18,4 +18,7 @@ def g():
     """
     pass  # ## TODO: WANNA MARKDOWN HERE
 
+def y():
+    return 42 # TODO: NOTHING!!
+
 print "hellofer"
