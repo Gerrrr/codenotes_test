@@ -9,7 +9,7 @@ def f(a, b):
     """
     NOTE: very complex
     """
-    return a + b
+    return a + b  # FIXME: write something simplier
 
 
 def g():
