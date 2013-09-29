@@ -18,3 +18,4 @@ def g():
     """
     pass
 
+print "hellofer"
